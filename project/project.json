@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Cek Khodam",
+        "tech": "HTML, CSS & JAVASCRIPT",
+        "image": "./assets/img/project/cekkhodam.png",
+        "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML, CSS & JAVASCRIPT",
+        "links": {
+            "demo": "https://aditsukacoding.github.io/cekkhodam/",
+            "code": "https://github.com/Aditsukacoding/cekkhodam"
+        }
+    },
+    {
+        "title": "Google Auth Laravel",
+        "tech": "LARAVEL DAN VITE.JS",
+        "image": "./assets/img/project/laravel.png",
+        "desc":"This is my project to create Oauth with laravel",
+        "links": {
+            "demo": "https://drive.google.com/drive/folders/1hYitwXBobROVYYSanpY8YU57gnSfUZcw?usp=drive_link",
+            "code": "https://drive.google.com/drive/folders/1hYitwXBobROVYYSanpY8YU57gnSfUZcw?usp=drive_link"
+        }
+    },{
+        "title": "Google Auth Next.JS",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/localhost.png",
+        "desc":"This is my project to create Oauth with Next.JS",
+        "links": {
+            "demo": "https://docs.google.com/document/d/1fyLfF3hUXuqxk8_9b8sTaJBUEXVbSmTo/edit?usp=drive_link&ouid=109011400357208934248&rtpof=true&sd=true",
+            "code": "https://github.com/Aditsukacoding/GoogleAuthNEXTJS"
+        }
+    },{
+        "title": "NEXT PROJEK",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/NEXTPROJEK.png",
+        "desc": "Nothing Projek",
+        "links": {
+            "demo": "https://thaliaeducation.septiandwica.site",
+            "code": "https://github.com/Septiandwica/Company-Profile-1"
+        }
+    },{
+        "title": "Portfolio Website",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/aditportofolio.png",
+        "desc": "This is my project for personal portfolio.",
+        "links": {
+            "demo": "https://septiandwica.site",
+            "code": "https://github.com/Septiandwica/"
+        }
+    }
+]

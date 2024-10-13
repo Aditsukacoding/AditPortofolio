@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Panduan Awal Menjadi Fullstack Web Developer dalam program Kelas Online CODEPOLITAN",
+        "by": "CODEPOLITAN",
+        "image": "./certification/fullstack-dicoding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://codepolitan.com/c/IKJZ1SQ"
+
+        }
+    }, {
+        "name": "Programming",
+        "by": "Dicoding Academy x IndosatID Camp",
+        "image": "./certification/COMINGSOON!.png",
+        "category":"programming",
+        "links": {
+            "credentials": ""
+        }
+    }, {
+        "name": "Programming",
+        "by": "Dicoding Academy x IndosatID Camp",
+        "image": "./certification/COMINGSOON!.png",
+        "category":"programming",
+        "links": {
+            "credentials": ""
+        }
+    }, {
+        "name": "Programming",
+        "by": "Dicoding Academy x IndosatID Camp",
+        "image": "./certification/COMINGSOON!.png",
+        "category":"programming",
+        "links": {
+            "credentials": ""
+        }
+    }, {
+        "name": "Programming",
+        "by": "Dicoding Academy x IndosatID Camp",
+        "image": "./certification/COMINGSOON!.png",
+        "category":"programming",
+        "links": {
+            "credentials": ""
+        }
+    }
+]
