@@ -14,6 +14,7 @@
             rel="stylesheet"
             integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
             crossorigin="anonymous"/>
+            <link rel="stylesheet" href="src/api.css">
         <link rel="stylesheet" href="src/style.css"/>
         <link
             rel="stylesheet"
@@ -91,6 +92,7 @@
                     </form>
                 </div>
             </div>
+            
         </nav>
 
         <section class="home d-flex position-relative align-items-center justify-content-center" id="home">
@@ -142,8 +144,8 @@
                     </div>
                 </div>
                 <div class="image">
-                    <video  controls autoplay loop >
-                        <source src="assets/img/SnapTik_App_7344432940354391302-HD.mp4" type="video/mp4">
+                    <video  autoplay loop >
+                        <source src="assets/img/SnapTik_App_7385849547051764998-HD.mp4" type="video/mp4">
                     </video>
                 </div>
                 
@@ -402,6 +404,23 @@
                 </div>
             </div>
         </footer>
+         <!-- Chat Box -->
+    <div class="chat-widget">
+        <div class="chat-header">
+            <h4>Chat with AI (Uji coba)</h4>
+            <button id="close-chat">×</button>
+        </div>
+        <div class="chat-body">
+            <div class="messages" id="messages"></div>
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Type a message..." />
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <!-- Chat button -->
+    <button id="chat-toggle" class="chat-toggle" >🗯️</button>
 
         <!-- cdn script js-->
         <script
@@ -424,5 +443,6 @@
         <script src="src/particle.js"></script>
         <script src="src/app.js"></script>
         <script src="src/script.js"></script>
+        <script src="src/api.js"></script>
     </body>
 </html>
